@@ -1,4 +1,6 @@
-naconda Environment Setup and Management Script
+#!/bin/bash
+
+# anaconda Environment Setup and Management Script
 # =============================================================================
 # 
 # This script provides an interactive interface for managing Anaconda
